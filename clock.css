@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(45deg, #0db9e9, #dc07b1);
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: 
+#ffffff;
+    font-size: 160px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 7px;
+}
